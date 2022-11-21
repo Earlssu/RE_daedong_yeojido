@@ -1,0 +1,13 @@
+.main_record {
+  border: solid rgba(0, 0, 0, 0.2) 1px;
+  width: 50%;
+  height: 125px;
+  margin: 25px auto;
+  padding: 20px 25px;
+  font-size: 1.1rem;
+  line-height: 2rem;
+}
+
+.main_record span {
+  text-shadow: -0.8px 0 black;
+}
